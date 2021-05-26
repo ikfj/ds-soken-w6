@@ -1,1 +1,3 @@
-PracticalDataScience2019w6
+# Practical Data Science
+
+Week 06
